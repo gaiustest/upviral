@@ -1,0 +1,15 @@
+<html>
+<h1> This is a test site <h2>
+
+<iframe class="uvembed84044" frameborder="0" src="https://static.upviral.com/loader.html" ></iframe>
+<script>
+window.UpviralConfig = {
+camp: "&(AA($",
+widget_style:'iframe',
+width:"500px"}
+</script>
+<script language="javascript" src="https://snippet.upviral.com/upviral.js"></script>
+
+
+
+</html>
